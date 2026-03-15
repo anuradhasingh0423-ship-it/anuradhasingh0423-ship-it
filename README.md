@@ -71,15 +71,13 @@ K-Means clustering and EDA used to analyze customer purchasing behavior.
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=anuradhasingh0423-ship-it&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
-
 ---
-
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/anuradhasingh0423-ship-it/anuradhasingh0423-ship-it/output/github-contribution-grid-snake.svg"/>
