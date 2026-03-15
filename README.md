@@ -15,8 +15,11 @@
 ## ⚡ About Me
 
 🎓 AIML Engineering Student (2023–2027)
+
 📍 Bhiwandi, Maharashtra, India
+
 🤖 Interested in **Artificial Intelligence, Machine Learning, NLP, and Computer Vision**
+
 💡 Building AI systems that solve real-world problems
 
 ---
@@ -71,19 +74,6 @@ K-Means clustering and EDA used to analyze customer purchasing behavior.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=anuradhasingh0423-ship-it&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
----
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/anuradhasingh0423-ship-it/anuradhasingh0423-ship-it/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
 
 # 📫 Connect With Me
 
