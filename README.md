@@ -18,7 +18,7 @@
 
 📍 Bhiwandi, Maharashtra, India
 
-🤖 Interested in **Artificial Intelligence, Machine Learning, NLP, and Computer Vision**
+🤖 Interested in **Artificial Intelligence, Machine Learning, NLP, Computer Vision, and Data Science**
 
 💡 Building AI systems that solve real-world problems
 
