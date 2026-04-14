@@ -62,7 +62,7 @@ K-Means clustering and EDA used to analyze customer purchasing behavior.
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=anuradhasingh0423-ship-it&show_icons=true&theme=tokyonight"/>
